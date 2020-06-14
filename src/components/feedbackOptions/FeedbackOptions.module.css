@@ -1,0 +1,9 @@
+.list {
+  display: flex;
+  width: 200px;
+  margin: 0 auto;
+  justify-content: space-between;
+}
+.list button:hover {
+  background-color: rgb(170, 212, 231);
+}
